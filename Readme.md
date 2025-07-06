@@ -18,13 +18,7 @@ cd whatsapp-poll-bot
 2. Start the Backend
 
     cd backend
-
-    Install dependencies
-
-npm install
-
-Start the server:
-
+    npm install
     npm start
 
     By default it listens on http://localhost:3000.
@@ -33,12 +27,7 @@ Start the server:
 
     Open a new terminal, cd frontend
 
-    Install dependencies
-
-npm install
-
-Start the React app:
-
+    npm install
     npm start
 
     The dashboard will open at http://localhost:3001.
