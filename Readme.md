@@ -2,22 +2,6 @@
 
 A web dashboard (React) + backend (Express + WhatsApp-web.js) application for scheduling and sending polls in your WhatsApp groups.
 
-## Folder Structure
-
-whatsapp-poll-bot/
-├── frontend/
-│ ├── src/
-│ │ ├── App.js
-│ │ ├── index.css
-│ │ └── index.js
-│ ├── public/
-│ │ └── index.html
-│ └── package.json
-└── backend/
-├── server.js
-└── package.json
-
-
 ## Prerequisites
 
 - **Node.js** v16 or higher  
@@ -37,9 +21,9 @@ cd whatsapp-poll-bot
 
     Install dependencies
 
-    npm install
+npm install
 
-    Start the server:
+Start the server:
 
     npm start
 
@@ -51,9 +35,9 @@ cd whatsapp-poll-bot
 
     Install dependencies
 
-    npm install
+npm install
 
-    Start the React app:
+Start the React app:
 
     npm start
 
